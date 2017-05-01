@@ -1,6 +1,6 @@
 ﻿break;
 
-Set-Location -Path '~\OneDrive\Documents\Get-PSUGUK Lability';
+Set-Location -Path '~\OneDrive\Documents\Get-PSUGUK\Get-PSUGUK-Lability';
 
 #region Part 1
 
